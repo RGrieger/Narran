@@ -1,0 +1,283 @@
+Site_ID,Region,Site_Name,dataset,Location,Vegetation.category,Flood.Return.Frequency,img,CanopyRichness,GroundRichness,TotalGCover,TotalRecruits,uid,geometry
+1,N,Clear Lake 2,veg04,NA,NA,Frequent,NA,NA,NA,NA,NA,1,"c(147.4615675, -29.7425525)"
+2,N,Canberra,veg04,NA,NA,Frequent,NA,NA,NA,NA,NA,2,"c(147.4539036, -29.73979076)"
+4,N,Clear Lake 3,veg04,NA,NA,Frequent,NA,NA,NA,NA,NA,3,"c(147.4575389, -29.74887807)"
+5,N,Unit,veg04,NA,NA,Moderate,NA,NA,NA,NA,NA,4,"c(147.4541459, -29.71879204)"
+6,N,Long Arm Fence,veg04,NA,NA,Moderate,NA,NA,NA,NA,NA,5,"c(147.4450001, -29.7009068)"
+8,N,Reed Site,veg04,NA,NA,Infrequent,NA,NA,NA,NA,NA,6,"c(147.4488784, -29.77154537)"
+11,N,Lantern Paradise,veg04,NA,NA,Infrequent,NA,NA,NA,NA,NA,7,"c(147.4329629, -29.74338064)"
+13,N,Dry River Floodplain,veg04,NA,NA,Rare,NA,NA,NA,NA,NA,8,"c(147.4227922, -29.72388386)"
+14,N,West Bank,veg04,NA,NA,Rare,NA,NA,NA,NA,NA,9,"c(147.3982313, -29.72641428)"
+16,N,Back Track,veg04,NA,NA,Rare,NA,NA,NA,NA,NA,10,"c(147.3853611, -29.74635052)"
+21,S,Baby Cow,veg04,NA,NA,Frequent,NA,NA,NA,NA,NA,11,"c(147.3625367, -29.84200812)"
+23,S,Fly Blown,veg04,NA,NA,Frequent,NA,NA,NA,NA,NA,12,"c(147.3508786, -29.85773628)"
+24,S,Field of Dreams,veg04,NA,NA,Frequent,NA,NA,NA,NA,NA,13,"c(147.3641709, -29.85509092)"
+25,S,Bumpy Route,veg04,NA,NA,Moderate,NA,NA,NA,NA,NA,14,"c(147.3398038, -29.82394103)"
+26,S,Beaudesert,veg04,NA,NA,Moderate,NA,NA,NA,NA,NA,15,"c(147.3105236, -29.84880097)"
+28,S,Nuthin,veg04,NA,NA,Moderate,NA,NA,NA,NA,NA,16,"c(147.3841709, -29.87596844)"
+30,S,Martini,veg04,NA,NA,Rare,NA,NA,NA,NA,NA,17,"c(147.3625916, -29.8255331)"
+31,S,Dead Cow,veg04,NA,NA,Infrequent,NA,NA,NA,NA,NA,18,"c(147.3069259, -29.88143879)"
+32,S,Midday Madness,veg04,NA,NA,Infrequent,NA,NA,NA,NA,NA,19,"c(147.3459139, -29.90575257)"
+33,S,Fly Nest,veg04,NA,NA,Infrequent,NA,NA,NA,NA,NA,20,"c(147.2984861, -29.90450495)"
+35,S,Holy Plains,veg04,NA,NA,Rare,NA,NA,NA,NA,NA,21,"c(147.4057116, -29.8960003)"
+36,S,Poo Paddock,veg04,NA,NA,Rare,NA,NA,NA,NA,NA,22,"c(147.3642236, -29.82005896)"
+38,S,Pink Ladies,veg04,NA,NA,Terrestrial,NA,NA,NA,NA,NA,23,"c(147.4005262, -29.8607143)"
+39,S,Brown Snake Country,veg04,NA,NA,Terrestrial,NA,NA,NA,NA,NA,24,"c(147.3943651, -29.90317388)"
+50,N,Bird Nest 1,veg04,NA,NA,Moderate,NA,NA,NA,NA,NA,25,"c(147.4527756, -29.72140799)"
+51,N,Bird Nest 2,veg04,NA,NA,Moderate,NA,NA,NA,NA,NA,26,"c(147.4548026, -29.72256707)"
+52,N,Bird Nest 3,veg04,NA,NA,Moderate,NA,NA,NA,NA,NA,27,"c(147.4560436, -29.72060096)"
+70,S,Emu Chase,veg04,NA,NA,Terrestrial,NA,NA,NA,NA,NA,28,"c(147.3166041, -29.80226571)"
+72,N,Flat as,veg04,NA,NA,Terrestrial,NA,NA,NA,NA,NA,29,"c(147.4640478, -29.73442693)"
+73,N,Baby Face,veg04,NA,NA,Infrequent,NA,NA,NA,NA,NA,30,"c(147.4773853, -29.74690937)"
+74,N,Hangover,veg04,NA,NA,Terrestrial,NA,NA,NA,NA,NA,31,"c(147.4822, -29.75054531)"
+75,N,Bootrosity,veg04,NA,NA,Infrequent,NA,NA,NA,NA,NA,32,"c(147.4107894, -29.73348136)"
+76,N,Lucky Last,veg04,NA,NA,Terrestrial,NA,NA,NA,NA,NA,33,"c(147.4419034, -29.68220962)"
+NL_IS_C1_1,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C1_1.JPG,1,7,125.45,0,34,"c(147.446613157418, -29.6929866944876)"
+NL_IS_C1_2,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C1_2.JPG,1,4,132.73,0,35,"c(147.447648363952, -29.704995317504)"
+NL_IS_C1_3,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C1_3.JPG,1,7,101.82,1,36,"c(147.467379666356, -29.7466579809312)"
+NL_IS_C1_4,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C1_4.JPG,2,6,89.09,0,37,"c(147.44672698846, -29.7746971638059)"
+NL_IS_C1_5,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C1_5.JPG,1,4,112.73,0,38,"c(147.447826484589, -29.7730328858541)"
+NL_IS_C2_1,NA,NA,EWKR17,Narren Lakes ,Inland shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C2_1.JPG,1,5,43.64,0,39,"c(147.447624077698, -29.6925230131054)"
+NL_IS_C2_2,NA,NA,EWKR17,Narren Lakes ,Inland shrubland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C2_2.JPG,1,3,43.64,6,40,"c(147.427397961991, -29.7223628984471)"
+NL_IS_C2_3,NA,NA,EWKR17,Narren Lakes ,Inland shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C2_3.JPG,1,7,107.27,0,41,"c(147.423514805197, -29.7283588596253)"
+NL_IS_C2_4,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C2_4.JPG,1,6,83.64,0,42,"c(147.387536323893, -29.7673571556358)"
+NL_IS_C2_5,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C2_5.JPG,1,5,80,1,43,"c(147.480638927761, -29.7446701539243)"
+NL_IS_C3_1,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C3_1.JPG,2,5,100,0,44,"c(147.411069677945, -29.7319719351181)"
+NL_IS_C3_2,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C3_2.JPG,1,5,114.55,8,45,"c(147.420560729934, -29.7291263656194)"
+NL_IS_C3_3,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C3_3.JPG,1,4,87.27,0,46,"c(147.424647233951, -29.7222634514606)"
+NL_IS_C3_4,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C3_4.JPG,1,5,94.55,1,47,"c(147.402428234272, -29.7586759324184)"
+NL_IS_C3_5,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C3_5.JPG,1,5,27.27,0,48,"c(147.362596638118, -29.8190407149205)"
+NL_IS_C4_1,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C4_1.JPG,1,6,49.09,0,49,"c(147.401629901158, -29.7659794401667)"
+NL_IS_C4_2,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C4_2.JPG,1,5,36.36,0,50,"c(147.326903061285, -29.7814101392507)"
+NL_IS_C4_3,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C4_3.JPG,1,4,27.27,0,51,"c(147.333147161109, -29.7831273231901)"
+NL_IS_C4_4,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C4_4.JPG,1,7,41.82,0,52,"c(147.326454812172, -29.8058685053491)"
+NL_IS_C4_5,NA,NA,EWKR17,Narren Lakes ,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C4_5.JPG,1,8,36.36,0,53,"c(147.360880524623, -29.7907436816282)"
+NL_IW_C1_1,NA,NA,EWKR17,Narren Lakes ,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C1_1.JPG,1,5,56.36,0,54,"c(147.374074345132, -29.7104850834722)"
+NL_IW_C1_2,NA,NA,EWKR17,Narren Lakes ,Inland woodland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C1_2.JPG,3,9,74.55,0,55,"c(147.368744492685, -29.7032891238357)"
+NL_IW_C1_3,NA,NA,EWKR17,Narren Lakes ,Inland woodland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C1_3.JPG,4,4,21.82,6,56,"c(147.431386010788, -29.7095707504037)"
+NL_IW_C1_4,NA,NA,EWKR17,Narren Lakes ,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C1_4.JPG,2,6,89.09,2,57,"c(147.449131566201, -29.7130675518034)"
+NL_IW_C1_5,NA,NA,EWKR17,Narren Lakes ,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C1_5.JPG,2,3,54.55,0,58,"c(147.460942992604, -29.7254361261954)"
+NL_IW_C3_2,NA,NA,EWKR17,Narren Lakes ,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C3_2.JPG,1,4,27.27,0,59,"c(147.408605815146, -29.7185144587256)"
+NL_IW_C3_3,NA,NA,EWKR17,Narren Lakes ,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C3_3.JPG,1,3,54.55,0,60,"c(147.403871919704, -29.7085384321447)"
+NL_IW_C3_4,NA,NA,EWKR17,Narren Lakes ,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C3_4.JPG,1,3,87.27,0,61,"c(147.373754439113, -29.7078507129277)"
+NL_IW_C3_5,NA,NA,EWKR17,Narren Lakes ,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C3_5.JPG,2,5,81.82,0,62,"c(147.410212616342, -29.7195563760464)"
+NL_IW_C4_1,NA,NA,EWKR17,Narren Lakes ,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C4_1.JPG,2,5,101.82,0,63,"c(147.372017630456, -29.7078465782252)"
+NL_IW_C4_2,NA,NA,EWKR17,Narren Lakes ,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C4_2.JPG,1,5,36.36,0,64,"c(147.407554999548, -29.7143301522178)"
+NL_IW_C4_3,NA,NA,EWKR17,Narren Lakes ,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C4_3.JPG,1,3,25.45,1,65,"c(147.399089108616, -29.7094824960512)"
+NL_IW_C4_4,NA,NA,EWKR17,Narren Lakes ,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C4_4.JPG,2,3,16.36,1,66,"c(147.425818845791, -29.7132348190525)"
+NL_IW_C4_5,NA,NA,EWKR17,Narren Lakes ,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C4_5.JPG,1,4,47.27,1,67,"c(147.385466799049, -29.7536635043136)"
+NL_NWW_C1_1,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C1_1.JPG,1,4,36.36,0,68,"c(147.37144220251, -29.8545375139051)"
+NL_NWW_C1_2,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C1_2.JPG,1,5,52.73,0,69,"c(147.364829846383, -29.8469029852074)"
+NL_NWW_C1_3,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C1_3.JPG,1,3,32.73,0,70,"c(147.308479234526, -29.842669631196)"
+NL_NWW_C1_4,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C1_4.JPG,1,3,134.55,1,71,"c(147.458966537002, -29.7364532866905)"
+NL_NWW_C1_5,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C1_5.JPG,1,3,114.55,1,72,"c(147.460262552695, -29.7371978464101)"
+NL_NWW_C2_1,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C2_1.JPG,1,2,34.55,0,73,"c(147.417953193196, -29.873070534138)"
+NL_NWW_C2_2,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C2_2.JPG,1,3,43.64,0,74,"c(147.305841164412, -29.8805706295981)"
+NL_NWW_C2_3,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C2_3.JPG,1,3,30.91,0,75,"c(147.303407389145, -29.8873628261643)"
+NL_NWW_C2_4,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C2_4.JPG,1,3,27.27,0,76,"c(147.323315717274, -29.9075488768183)"
+NL_NWW_C2_5,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C2_5.JPG,1,4,47.27,0,77,"c(147.342653418364, -29.9100269605077)"
+NL_NWW_C3_1,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C3_1.JPG,1,2,23.64,0,78,"c(147.417365730523, -29.8712494108533)"
+NL_NWW_C3_2,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C3_2.JPG,1,4,29.09,0,79,"c(147.34889142491, -29.9105881840985)"
+NL_NWW_C3_3,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C3_3.JPG,1,8,47.27,0,80,"c(147.386980669651, -29.8943639172817)"
+NL_NWW_C3_4,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C3_4.JPG,1,4,60,0,81,"c(147.350433654035, -29.8983917847163)"
+NL_NWW_C3_5,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C3_5.JPG,1,6,56.36,0,82,"c(147.350016682864, -29.8946657040782)"
+NL_NWW_C4_1,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C4_1.JPG,1,5,58.18,0,83,"c(147.414072579809, -29.8862136402221)"
+NL_NWW_C4_2,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C4_2.JPG,1,9,27.27,0,84,"c(147.410151035314, -29.8946639297864)"
+NL_NWW_C4_3,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C4_3.JPG,1,8,36.36,0,85,"c(147.412570728119, -29.8987445443147)"
+NL_NWW_C4_4,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C4_4.JPG,1,5,34.55,0,86,"c(147.368436048418, -29.8873326460975)"
+NL_NWW_C4_5,NA,NA,EWKR17,Narren Lakes ,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C4_5.JPG,1,5,27.27,0,87,"c(147.362395650861, -29.8837665775438)"
+NL_IS_C1_1,NA,NA,EWKR18,Narran Lake,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C1_1.JPG,1,3,58.18,0,88,"c(147.446613157418, -29.6929866944876)"
+NL_IS_C1_2,NA,NA,EWKR18,Narran Lake,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C1_2.JPG,1,2,90.91,0,89,"c(147.447648363952, -29.704995317504)"
+NL_IS_C1_3,NA,NA,EWKR18,Narran Lake,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C1_3.JPG,1,4,76.36,3,90,"c(147.467379666356, -29.7466579809312)"
+NL_IS_C1_4,NA,NA,EWKR18,Narran Lake,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C1_4.JPG,1,3,70.91,1,91,"c(147.44672698846, -29.7746971638059)"
+NL_IS_C1_5,NA,NA,EWKR18,Narran Lake,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C1_5.JPG,1,4,67.27,0,92,"c(147.447826484589, -29.7730328858541)"
+NL_IS_C2_1,NA,NA,EWKR18,Narran Lake,Inland shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C2_1.JPG,1,2,56.36,0,93,"c(147.447624077698, -29.6925230131054)"
+NL_IS_C2_2,NA,NA,EWKR18,Narran Lake,Inland shrubland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C2_2.JPG,1,3,81.82,4,94,"c(147.427397961991, -29.7223628984471)"
+NL_IS_C2_3,NA,NA,EWKR18,Narran Lake,Inland shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C2_3.JPG,1,3,52.73,5,95,"c(147.423514805197, -29.7283588596253)"
+NL_IS_C2_4,NA,NA,EWKR18,Narran Lake,Inland Shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C2_4.JPG,1,3,67.27,2,96,"c(147.387536323893, -29.7673571556358)"
+NL_IS_C2_5,NA,NA,EWKR18,Narran Lake,Inland Shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C2_5.JPG,1,5,80,2,97,"c(147.480638927761, -29.7446701539243)"
+NL_IS_C3_1,NA,NA,EWKR18,Narran Lake,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C3_1.JPG,2,4,89.09,10,98,"c(147.411069677945, -29.7319719351181)"
+NL_IS_C3_2,NA,NA,EWKR18,Narran Lake,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C3_2.JPG,1,2,69.09,10,99,"c(147.420560729934, -29.7291263656194)"
+NL_IS_C3_3,NA,NA,EWKR18,Narran Lake,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C3_3.JPG,1,3,45.45,0,100,"c(147.424647233951, -29.7222634514606)"
+NL_IS_C3_4,NA,NA,EWKR18,Narran Lake,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C3_4.JPG,1,2,72.73,7,101,"c(147.402428234272, -29.7586759324184)"
+NL_IS_C3_5,NA,NA,EWKR18,Narran Lake,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C3_5.JPG,1,2,14.55,0,102,"c(147.362596638118, -29.8190407149205)"
+NL_IS_C4_1,NA,NA,EWKR18,Narran Lake,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C4_1.JPG,1,4,36.36,4,103,"c(147.401629901158, -29.7659794401667)"
+NL_IS_C4_2,NA,NA,EWKR18,Narran Lake,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C4_2.JPG,1,4,18.18,0,104,"c(147.326903061285, -29.7814101392507)"
+NL_IS_C4_3,NA,NA,EWKR18,Narran Lake,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C4_3.JPG,1,5,20,0,105,"c(147.333147161109, -29.7831273231901)"
+NL_IS_C4_4,NA,NA,EWKR18,Narran Lake,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C4_4.JPG,1,4,32.73,0,106,"c(147.326454812172, -29.8058685053491)"
+NL_IS_C4_5,NA,NA,EWKR18,Narran Lake,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C4_5.JPG,1,3,27.27,0,107,"c(147.360880524623, -29.7907436816282)"
+NL_IW_C1_1,NA,NA,EWKR18,Narran Lake,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C1_1.JPG,2,2,52.73,0,108,"c(147.374074345132, -29.7104850834722)"
+NL_IW_C1_2,NA,NA,EWKR18,Narran Lake,Inland woodland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C1_2.JPG,3,7,36.36,1,109,"c(147.368744492685, -29.7032891238357)"
+NL_IW_C1_3,NA,NA,EWKR18,Narran Lake,Inland woodland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C1_3.JPG,3,2,20,0,110,"c(147.431386010788, -29.7095707504037)"
+NL_IW_C1_4,NA,NA,EWKR18,Narran Lake,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C1_4.JPG,2,3,67.27,4,111,"c(147.449131566201, -29.7130675518034)"
+NL_IW_C1_5,NA,NA,EWKR18,Narran Lake,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C1_5.JPG,2,4,47.27,5,112,"c(147.460942992604, -29.7254361261954)"
+NL_IW_C3_2,NA,NA,EWKR18,Narran Lake,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C3_2.JPG,1,3,10.91,1,113,"c(147.408605815146, -29.7185144587256)"
+NL_IW_C3_3,NA,NA,EWKR18,Narran Lake,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C3_3.JPG,2,2,56.36,3,114,"c(147.403871919704, -29.7085384321447)"
+NL_IW_C3_4,NA,NA,EWKR18,Narran Lake,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C3_4.JPG,1,1,54.55,5,115,"c(147.373754439113, -29.7078507129277)"
+NL_IW_C3_5,NA,NA,EWKR18,Narran Lake,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C3_5.JPG,2,2,43.64,5,116,"c(147.410212616342, -29.7195563760464)"
+NL_IW_C4_1,NA,NA,EWKR18,Narran Lake,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C4_1.JPG,2,3,69.09,0,117,"c(147.372017630456, -29.7078465782252)"
+NL_IW_C4_2,NA,NA,EWKR18,Narran Lake,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C4_2.JPG,2,4,30.91,5,118,"c(147.407554999548, -29.7143301522178)"
+NL_IW_C4_3,NA,NA,EWKR18,Narran Lake,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C4_3.JPG,2,6,30.91,86,119,"c(147.399089108616, -29.7094824960512)"
+NL_IW_C4_4,NA,NA,EWKR18,Narran Lake,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C4_4.JPG,2,1,16.36,0,120,"c(147.425818845791, -29.7132348190525)"
+NL_IW_C4_5,NA,NA,EWKR18,Narran Lake,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C4_5.JPG,1,6,36.36,1,121,"c(147.385466799049, -29.7536635043136)"
+NL_NWW_C1_1,NA,NA,EWKR18,Narran Lake,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C1_1.JPG,1,1,1.82,0,122,"c(147.37144220251, -29.8545375139051)"
+NL_NWW_C1_2,NA,NA,EWKR18,Narran Lake,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C1_2.JPG,1,1,1.82,0,123,"c(147.364829846383, -29.8469029852074)"
+NL_NWW_C1_3,NA,NA,EWKR18,Narran Lake,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C1_3.JPG,1,2,32.73,0,124,"c(147.308479234526, -29.842669631196)"
+NL_NWW_C1_4,NA,NA,EWKR18,Narran Lake,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C1_4.JPG,1,4,32.73,0,125,"c(147.458966537002, -29.7364532866905)"
+NL_NWW_C1_5,NA,NA,EWKR18,Narran Lake,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C1_5.JPG,1,4,20,0,126,"c(147.460262552695, -29.7371978464101)"
+NL_NWW_C2_1,NA,NA,EWKR18,Narran Lake,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C2_1.JPG,1,3,10.91,0,127,"c(147.417953193196, -29.873070534138)"
+NL_NWW_C2_2,NA,NA,EWKR18,Narran Lake,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C2_2.JPG,1,NA,NA,0,128,"c(147.305841164412, -29.8805706295981)"
+NL_NWW_C2_3,NA,NA,EWKR18,Narran Lake,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C2_3.JPG,1,NA,NA,0,129,"c(147.303407389145, -29.8873628261643)"
+NL_NWW_C2_4,NA,NA,EWKR18,Narran Lake,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C2_4.JPG,1,NA,NA,0,130,"c(147.323315717274, -29.9075488768183)"
+NL_NWW_C2_5,NA,NA,EWKR18,Narran Lake,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C2_5.JPG,1,2,27.27,0,131,"c(147.342653418364, -29.9100269605077)"
+NL_NWW_C3_1,NA,NA,EWKR18,Narran Lake,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C3_1.JPG,1,4,10.91,0,132,"c(147.417365730523, -29.8712494108533)"
+NL_NWW_C3_2,NA,NA,EWKR18,Narran Lake,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C3_2.JPG,1,NA,NA,0,133,"c(147.34889142491, -29.9105881840985)"
+NL_NWW_C3_3,NA,NA,EWKR18,Narran Lake,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C3_3.JPG,1,1,14.55,0,134,"c(147.386980669651, -29.8943639172817)"
+NL_NWW_C3_4,NA,NA,EWKR18,Narran Lake,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C3_4.JPG,1,3,16.36,0,135,"c(147.350433654035, -29.8983917847163)"
+NL_NWW_C3_5,NA,NA,EWKR18,Narran Lake,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C3_5.JPG,1,1,1.82,0,136,"c(147.350016682864, -29.8946657040782)"
+NL_NWW_C4_1,NA,NA,EWKR18,Narran Lake,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C4_1.JPG,1,NA,NA,0,137,"c(147.414072579809, -29.8862136402221)"
+NL_NWW_C4_2,NA,NA,EWKR18,Narran Lake,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C4_2.JPG,1,2,3.64,0,138,"c(147.410151035314, -29.8946639297864)"
+NL_NWW_C4_3,NA,NA,EWKR18,Narran Lake,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C4_3.JPG,1,1,1.82,0,139,"c(147.412570728119, -29.8987445443147)"
+NL_NWW_C4_4,NA,NA,EWKR18,Narran Lake,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C4_4.JPG,1,NA,NA,0,140,"c(147.368436048418, -29.8873326460975)"
+NL_NWW_C4_5,NA,NA,EWKR18,Narran Lake,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C4_5.JPG,1,NA,NA,0,141,"c(147.362395650861, -29.8837665775438)"
+"1",N,Clear Lake 2,veg04,,,Frequent,,,,,,"1",
+"2",N,Canberra,veg04,,,Frequent,,,,,,"2",
+"4",N,Clear Lake 3,veg04,,,Frequent,,,,,,"3",
+"5",N,Unit,veg04,,,Moderate,,,,,,"4",
+"6",N,Long Arm Fence,veg04,,,Moderate,,,,,,"5",
+"8",N,Reed Site,veg04,,,Infrequent,,,,,,"6",
+"11",N,Lantern Paradise,veg04,,,Infrequent,,,,,,"7",
+"13",N,Dry River Floodplain,veg04,,,Rare,,,,,,"8",
+"14",N,West Bank,veg04,,,Rare,,,,,,"9",
+"16",N,Back Track,veg04,,,Rare,,,,,,"10",
+"21",S,Baby Cow,veg04,,,Frequent,,,,,,"11",
+"23",S,Fly Blown,veg04,,,Frequent,,,,,,"12",
+"24",S,Field of Dreams,veg04,,,Frequent,,,,,,"13",
+"25",S,Bumpy Route,veg04,,,Moderate,,,,,,"14",
+"26",S,Beaudesert,veg04,,,Moderate,,,,,,"15",
+"28",S,Nuthin,veg04,,,Moderate,,,,,,"16",
+"30",S,Martini,veg04,,,Rare,,,,,,"17",
+"31",S,Dead Cow,veg04,,,Infrequent,,,,,,"18",
+"32",S,Midday Madness,veg04,,,Infrequent,,,,,,"19",
+"33",S,Fly Nest,veg04,,,Infrequent,,,,,,"20",
+"35",S,Holy Plains,veg04,,,Rare,,,,,,"21",
+"36",S,Poo Paddock,veg04,,,Rare,,,,,,"22",
+"38",S,Pink Ladies,veg04,,,Terrestrial,,,,,,"23",
+"39",S,Brown Snake Country,veg04,,,Terrestrial,,,,,,"24",
+"50",N,Bird Nest 1,veg04,,,Moderate,,,,,,"25",
+"51",N,Bird Nest 2,veg04,,,Moderate,,,,,,"26",
+"52",N,Bird Nest 3,veg04,,,Moderate,,,,,,"27",
+"70",S,Emu Chase,veg04,,,Terrestrial,,,,,,"28",
+"72",N,Flat as,veg04,,,Terrestrial,,,,,,"29",
+"73",N,Baby Face,veg04,,,Infrequent,,,,,,"30",
+"74",N,Hangover,veg04,,,Terrestrial,,,,,,"31",
+"75",N,Bootrosity,veg04,,,Infrequent,,,,,,"32",
+"76",N,Lucky Last,veg04,,,Terrestrial,,,,,,"33",
+NL_IS_C1_1,,,EWKR17,Narren Lakes ,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C1_1.JPG,"1","7","125.45","0","34",
+NL_IS_C1_2,,,EWKR17,Narren Lakes ,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C1_2.JPG,"1","4","132.73","0","35",
+NL_IS_C1_3,,,EWKR17,Narren Lakes ,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C1_3.JPG,"1","7","101.82","1","36",
+NL_IS_C1_4,,,EWKR17,Narren Lakes ,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C1_4.JPG,"2","6","89.09","0","37",
+NL_IS_C1_5,,,EWKR17,Narren Lakes ,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C1_5.JPG,"1","4","112.73","0","38",
+NL_IS_C2_1,,,EWKR17,Narren Lakes ,Inland shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C2_1.JPG,"1","5","43.64","0","39",
+NL_IS_C2_2,,,EWKR17,Narren Lakes ,Inland shrubland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C2_2.JPG,"1","3","43.64","6","40",
+NL_IS_C2_3,,,EWKR17,Narren Lakes ,Inland shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C2_3.JPG,"1","7","107.27","0","41",
+NL_IS_C2_4,,,EWKR17,Narren Lakes ,Inland Shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C2_4.JPG,"1","6","83.64","0","42",
+NL_IS_C2_5,,,EWKR17,Narren Lakes ,Inland Shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C2_5.JPG,"1","5","80","1","43",
+NL_IS_C3_1,,,EWKR17,Narren Lakes ,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C3_1.JPG,"2","5","100","0","44",
+NL_IS_C3_2,,,EWKR17,Narren Lakes ,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C3_2.JPG,"1","5","114.55","8","45",
+NL_IS_C3_3,,,EWKR17,Narren Lakes ,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C3_3.JPG,"1","4","87.27","0","46",
+NL_IS_C3_4,,,EWKR17,Narren Lakes ,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C3_4.JPG,"1","5","94.55","1","47",
+NL_IS_C3_5,,,EWKR17,Narren Lakes ,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C3_5.JPG,"1","5","27.27","0","48",
+NL_IS_C4_1,,,EWKR17,Narren Lakes ,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C4_1.JPG,"1","6","49.09","0","49",
+NL_IS_C4_2,,,EWKR17,Narren Lakes ,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C4_2.JPG,"1","5","36.36","0","50",
+NL_IS_C4_3,,,EWKR17,Narren Lakes ,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C4_3.JPG,"1","4","27.27","0","51",
+NL_IS_C4_4,,,EWKR17,Narren Lakes ,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C4_4.JPG,"1","7","41.82","0","52",
+NL_IS_C4_5,,,EWKR17,Narren Lakes ,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IS_C4_5.JPG,"1","8","36.36","0","53",
+NL_IW_C1_1,,,EWKR17,Narren Lakes ,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C1_1.JPG,"1","5","56.36","0","54",
+NL_IW_C1_2,,,EWKR17,Narren Lakes ,Inland woodland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C1_2.JPG,"3","9","74.55","0","55",
+NL_IW_C1_3,,,EWKR17,Narren Lakes ,Inland woodland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C1_3.JPG,"4","4","21.82","6","56",
+NL_IW_C1_4,,,EWKR17,Narren Lakes ,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C1_4.JPG,"2","6","89.09","2","57",
+NL_IW_C1_5,,,EWKR17,Narren Lakes ,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C1_5.JPG,"2","3","54.55","0","58",
+NL_IW_C3_2,,,EWKR17,Narren Lakes ,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C3_2.JPG,"1","4","27.27","0","59",
+NL_IW_C3_3,,,EWKR17,Narren Lakes ,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C3_3.JPG,"1","3","54.55","0","60",
+NL_IW_C3_4,,,EWKR17,Narren Lakes ,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C3_4.JPG,"1","3","87.27","0","61",
+NL_IW_C3_5,,,EWKR17,Narren Lakes ,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C3_5.JPG,"2","5","81.81999999999999","0","62",
+NL_IW_C4_1,,,EWKR17,Narren Lakes ,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C4_1.JPG,"2","5","101.82","0","63",
+NL_IW_C4_2,,,EWKR17,Narren Lakes ,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C4_2.JPG,"1","5","36.36","0","64",
+NL_IW_C4_3,,,EWKR17,Narren Lakes ,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C4_3.JPG,"1","3","25.45","1","65",
+NL_IW_C4_4,,,EWKR17,Narren Lakes ,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C4_4.JPG,"2","3","16.36","1","66",
+NL_IW_C4_5,,,EWKR17,Narren Lakes ,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_IW_C4_5.JPG,"1","4","47.27","1","67",
+NL_NWW_C1_1,,,EWKR17,Narren Lakes ,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C1_1.JPG,"1","4","36.36","0","68",
+NL_NWW_C1_2,,,EWKR17,Narren Lakes ,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C1_2.JPG,"1","5","52.73","0","69",
+NL_NWW_C1_3,,,EWKR17,Narren Lakes ,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C1_3.JPG,"1","3","32.73","0","70",
+NL_NWW_C1_4,,,EWKR17,Narren Lakes ,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C1_4.JPG,"1","3","134.55","1","71",
+NL_NWW_C1_5,,,EWKR17,Narren Lakes ,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C1_5.JPG,"1","3","114.55","1","72",
+NL_NWW_C2_1,,,EWKR17,Narren Lakes ,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C2_1.JPG,"1","2","34.55","0","73",
+NL_NWW_C2_2,,,EWKR17,Narren Lakes ,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C2_2.JPG,"1","3","43.64","0","74",
+NL_NWW_C2_3,,,EWKR17,Narren Lakes ,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C2_3.JPG,"1","3","30.91","0","75",
+NL_NWW_C2_4,,,EWKR17,Narren Lakes ,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C2_4.JPG,"1","3","27.27","0","76",
+NL_NWW_C2_5,,,EWKR17,Narren Lakes ,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C2_5.JPG,"1","4","47.27","0","77",
+NL_NWW_C3_1,,,EWKR17,Narren Lakes ,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C3_1.JPG,"1","2","23.64","0","78",
+NL_NWW_C3_2,,,EWKR17,Narren Lakes ,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C3_2.JPG,"1","4","29.09","0","79",
+NL_NWW_C3_3,,,EWKR17,Narren Lakes ,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C3_3.JPG,"1","8","47.27","0","80",
+NL_NWW_C3_4,,,EWKR17,Narren Lakes ,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C3_4.JPG,"1","4","60","0","81",
+NL_NWW_C3_5,,,EWKR17,Narren Lakes ,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C3_5.JPG,"1","6","56.36","0","82",
+NL_NWW_C4_1,,,EWKR17,Narren Lakes ,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C4_1.JPG,"1","5","58.18","0","83",
+NL_NWW_C4_2,,,EWKR17,Narren Lakes ,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C4_2.JPG,"1","9","27.27","0","84",
+NL_NWW_C4_3,,,EWKR17,Narren Lakes ,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C4_3.JPG,"1","8","36.36","0","85",
+NL_NWW_C4_4,,,EWKR17,Narren Lakes ,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C4_4.JPG,"1","5","34.55","0","86",
+NL_NWW_C4_5,,,EWKR17,Narren Lakes ,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos_2017/Site photos_2017/NL_NWW_C4_5.JPG,"1","5","27.27","0","87",
+NL_IS_C1_1,,,EWKR18,Narran Lake,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C1_1.JPG,"1","3","58.18","0","88",
+NL_IS_C1_2,,,EWKR18,Narran Lake,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C1_2.JPG,"1","2","90.91","0","89",
+NL_IS_C1_3,,,EWKR18,Narran Lake,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C1_3.JPG,"1","4","76.36","3","90",
+NL_IS_C1_4,,,EWKR18,Narran Lake,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C1_4.JPG,"1","3","70.91","1","91",
+NL_IS_C1_5,,,EWKR18,Narran Lake,Inland Shrubland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C1_5.JPG,"1","4","67.27","0","92",
+NL_IS_C2_1,,,EWKR18,Narran Lake,Inland shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C2_1.JPG,"1","2","56.36","0","93",
+NL_IS_C2_2,,,EWKR18,Narran Lake,Inland shrubland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C2_2.JPG,"1","3","81.81999999999999","4","94",
+NL_IS_C2_3,,,EWKR18,Narran Lake,Inland shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C2_3.JPG,"1","3","52.73","5","95",
+NL_IS_C2_4,,,EWKR18,Narran Lake,Inland Shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C2_4.JPG,"1","3","67.27","2","96",
+NL_IS_C2_5,,,EWKR18,Narran Lake,Inland Shrubland,1.5-3 years ,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C2_5.JPG,"1","5","80","2","97",
+NL_IS_C3_1,,,EWKR18,Narran Lake,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C3_1.JPG,"2","4","89.09","10","98",
+NL_IS_C3_2,,,EWKR18,Narran Lake,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C3_2.JPG,"1","2","69.09","10","99",
+NL_IS_C3_3,,,EWKR18,Narran Lake,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C3_3.JPG,"1","3","45.45","0","100",
+NL_IS_C3_4,,,EWKR18,Narran Lake,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C3_4.JPG,"1","2","72.73","7","101",
+NL_IS_C3_5,,,EWKR18,Narran Lake,Inland Shrubland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C3_5.JPG,"1","2","14.55","0","102",
+NL_IS_C4_1,,,EWKR18,Narran Lake,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C4_1.JPG,"1","4","36.36","4","103",
+NL_IS_C4_2,,,EWKR18,Narran Lake,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C4_2.JPG,"1","4","18.18","0","104",
+NL_IS_C4_3,,,EWKR18,Narran Lake,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C4_3.JPG,"1","5","20","0","105",
+NL_IS_C4_4,,,EWKR18,Narran Lake,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C4_4.JPG,"1","4","32.73","0","106",
+NL_IS_C4_5,,,EWKR18,Narran Lake,Inland Shrubland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IS_C4_5.JPG,"1","3","27.27","0","107",
+NL_IW_C1_1,,,EWKR18,Narran Lake,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C1_1.JPG,"2","2","52.73","0","108",
+NL_IW_C1_2,,,EWKR18,Narran Lake,Inland woodland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C1_2.JPG,"3","7","36.36","1","109",
+NL_IW_C1_3,,,EWKR18,Narran Lake,Inland woodland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C1_3.JPG,"3","2","20","0","110",
+NL_IW_C1_4,,,EWKR18,Narran Lake,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C1_4.JPG,"2","3","67.27","4","111",
+NL_IW_C1_5,,,EWKR18,Narran Lake,Inland woodland ,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C1_5.JPG,"2","4","47.27","5","112",
+NL_IW_C3_2,,,EWKR18,Narran Lake,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C3_2.JPG,"1","3","10.91","1","113",
+NL_IW_C3_3,,,EWKR18,Narran Lake,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C3_3.JPG,"2","2","56.36","3","114",
+NL_IW_C3_4,,,EWKR18,Narran Lake,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C3_4.JPG,"1","1","54.55","5","115",
+NL_IW_C3_5,,,EWKR18,Narran Lake,Inland woodland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C3_5.JPG,"2","2","43.64","5","116",
+NL_IW_C4_1,,,EWKR18,Narran Lake,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C4_1.JPG,"2","3","69.09","0","117",
+NL_IW_C4_2,,,EWKR18,Narran Lake,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C4_2.JPG,"2","4","30.91","5","118",
+NL_IW_C4_3,,,EWKR18,Narran Lake,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C4_3.JPG,"2","6","30.91","86","119",
+NL_IW_C4_4,,,EWKR18,Narran Lake,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C4_4.JPG,"2","1","16.36","0","120",
+NL_IW_C4_5,,,EWKR18,Narran Lake,Inland woodland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_IW_C4_5.JPG,"1","6","36.36","1","121",
+NL_NWW_C1_1,,,EWKR18,Narran Lake,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C1_1.JPG,"1","1","1.82","0","122",
+NL_NWW_C1_2,,,EWKR18,Narran Lake,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C1_2.JPG,"1","1","1.82","0","123",
+NL_NWW_C1_3,,,EWKR18,Narran Lake,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C1_3.JPG,"1","2","32.73","0","124",
+NL_NWW_C1_4,,,EWKR18,Narran Lake,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C1_4.JPG,"1","4","32.73","0","125",
+NL_NWW_C1_5,,,EWKR18,Narran Lake,non-woody wetland,Annual / near annual,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C1_5.JPG,"1","4","20","0","126",
+NL_NWW_C2_1,,,EWKR18,Narran Lake,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C2_1.JPG,"1","3","10.91","0","127",
+NL_NWW_C2_2,,,EWKR18,Narran Lake,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C2_2.JPG,"1",,,"0","128",
+NL_NWW_C2_3,,,EWKR18,Narran Lake,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C2_3.JPG,"1",,,"0","129",
+NL_NWW_C2_4,,,EWKR18,Narran Lake,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C2_4.JPG,"1",,,"0","130",
+NL_NWW_C2_5,,,EWKR18,Narran Lake,non-woody wetland,1.5-3 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C2_5.JPG,"1","2","27.27","0","131",
+NL_NWW_C3_1,,,EWKR18,Narran Lake,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C3_1.JPG,"1","4","10.91","0","132",
+NL_NWW_C3_2,,,EWKR18,Narran Lake,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C3_2.JPG,"1",,,"0","133",
+NL_NWW_C3_3,,,EWKR18,Narran Lake,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C3_3.JPG,"1","1","14.55","0","134",
+NL_NWW_C3_4,,,EWKR18,Narran Lake,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C3_4.JPG,"1","3","16.36","0","135",
+NL_NWW_C3_5,,,EWKR18,Narran Lake,non-woody wetland,3-5 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C3_5.JPG,"1","1","1.82","0","136",
+NL_NWW_C4_1,,,EWKR18,Narran Lake,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C4_1.JPG,"1",,,"0","137",
+NL_NWW_C4_2,,,EWKR18,Narran Lake,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C4_2.JPG,"1","2","3.64","0","138",
+NL_NWW_C4_3,,,EWKR18,Narran Lake,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C4_3.JPG,"1","1","1.82","0","139",
+NL_NWW_C4_4,,,EWKR18,Narran Lake,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C4_4.JPG,"1",,,"0","140",
+NL_NWW_C4_5,,,EWKR18,Narran Lake,non-woody wetland,5-10 years,D:/Bek/Narran/narranShiny/data/Site photos 2018/Site photos 2018/NL_NWW_C4_5.JPG,"1",,,"0","141",
